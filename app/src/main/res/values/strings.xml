@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">MODUL5</string>
+    <string name="text_universitas_kuningan">Universitas Kuningan</string>
+    <string name="text_history_of_uniku">Sejarah Singkat Universitas Kuningan</string>
+    <string name="text_visi">VISI</string>
+    <string name="text_misi">MISI</string>
+    <string name="text_content_history_of_uniku">Universitas Kuningan (UNIKU) didirikan sebagai perwujudan dari idealisme dan komitmen Yayasan Pendidikan Sang Adipati Kuningan untuk terus menerus berkarya khususnya dalam bidang peningkatan sumber daya manusia menuju peningkatan mutu kehidupan masyarakat pada umumnya.</string>
+    <string name="text_content_visi">“Menjadi Universitas Unggul yang Memiliki Komitmen Tinggi terhadap Pemberdayaan Masyarakat pada Tahun 2035”</string>
+    <string name="text_content_misi">1. Menyelenggarakan proses pembelajaran yang berkualitas dan berpusat pada mahasiswsa sehingga mampu menghasilkan lulusan yang berdaya saing dan berkepribadian luhur. \n2. Menyediakan layanan pendidikan tinggi yang berkualitas dan terjangkau oleh masyarakat\n3. Menyelenggarakan riset-riset ilmiah dalam rangka mengembangkan ilmu, teknologi, dan seni yang bermanfaat bagi kemaslahatan manusia.\n 4.Menyelenggarakan pengabdian kepada masyarakat berbasis penelitian dalam rangka pemberdayaan masyarakat.\n5.Mengembangkan budaya kewirausahaan mahasiswa dalam rangka melahirkan pewirausaha baru dari kalangan generasi muda terdidik .\n6.Mengembangkan jejaring dengan berbagai institusi, baik pemerintah maupun swasta, dalam rangka meningkatkan kapasitas dan peran institusi dalam pembangunan bangsa.</string>
+    <string name="text_fakultas_uniku">Fakultas Universitas Kuningan</string>
+    <string name="text_fkip">Fakultas Keguruan dan Ilmu Pendidikan</string>
+    <string name="text_feb">Fakultas Ekonomi dan Bisnis</string>
+    <string name="text_fhut">Fakultas Kehutanan dan Lingkungan</string>
+    <string name="text_fkom">Fakultas Ilmu Komputer</string>
+    <string name="text_fh">Fakultas Hukum</string>
+    <string name="text_prog_fkom">Program Studi \nFakultas Ilmu Komputer</string>
+    <string name="text_ti">Teknik Informatika - S1</string>
+    <string name="text_desc_of_ti">Kemampuan melakukan pembuatan sebuah program; Kemampuan berpikir logis; Kemampuan berpikir sistematis.</string>
+    <string name="text_si">Sistem Informasi - S1</string>
+    <string name="text_desc_of_si">Kemampuan melakukan rekayasa dengan komputer; Kemampuan problem solving; Kemampuan berpikir sistematis.</string>
+    <string name="text_mi">Manajemen Informatika - D3</string>
+    <string name="text_desc_of_mi">Kemampuan melakukan rekayasa dengan komputer; Kemampuan problem solving; Kemampuan berpikir sistematis.</string>
+    <string name="text_dkv">Desain Komunikasi Visual - S1</string>
+    <string name="text_desc_of_dkv">Kemampuan menyelesaikan masalah komunikasi melalui visual; Keterampilan teknis mendesain; Kemampuan mengoperasikan software grafis dan multimedia.</string>
+    <string name="text_ts">Teknik Sipil - S1</string>
+    <string name="text_desc_of_ts">Kemampuan merancang, membangun, dan memelihara serta memperbaiki bangunan; Keterampilan membuat rancangan struktur bangunan secara lengkap; Kemampuan pemeliharaan dan perbaikan bangunan.</string>
 </resources>
